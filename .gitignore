@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+
+# Trained models (very large files)
+best_model.pkl
+scaler.pkl
+encoders.pkl
+
+# OS / editor files
+.DS_Store
+.vscode/
